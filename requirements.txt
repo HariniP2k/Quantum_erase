@@ -1,0 +1,6 @@
+pywebview>=4.0
+qiskit>=1.0.0
+qiskit-ibm-runtime>=0.20.0
+cryptography>=42.0.0
+pqcrypto>=0.1.0
+python-dotenv>=1.0.0
